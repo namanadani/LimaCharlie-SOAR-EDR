@@ -74,3 +74,23 @@ Unlike slack, we have to manually add credential for limacharlie in tines by upl
   <img src="https://github.com/user-attachments/assets/9f943125-6120-4b84-9fe0-4ae33eae5f38">
 </div>
 
+# 
+Now, when lazagne is run on our windows server, lima-charlie will detect it with the custom rule created. Lima-charlie will further send all the events along with data to tines. Here, in tines only important information are transferred to security team via email and slack. Note: for email i've used a temporary email platform for receiving emails.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3b5af05e-a65a-42b6-80cf-ff4ca0474610">
+</div>
+Here, in tines only important information are transferred to security team via email and slack. Note: for email i've used a temporary email platform for receiving emails.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b7e8ee96-fe9a-49fe-86a2-a7462ea744e2">
+</div>
+We can see the information in detailed on slack and on email.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/402d63de-e3bc-448a-aa8d-266898b7aea4" meta="slack">
+  <img src="https://github.com/user-attachments/assets/446a0451-593a-4bd6-a2a1-c3ac768c87d1" meta="email">
+</div>
+Overview of event on email.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f6b8e605-8259-4009-9d0b-d6b2005ed791">
+</div>
+If the security team chooses to see the event in-depth, they can do by clicking the link in the bottom of the message for every specific event. If security team wishes to isolate the sensor(machine), they can simply press yes and isolate sensor application from tines will command lima-charlie to isolate the machine.
+<div align="center"></div>
