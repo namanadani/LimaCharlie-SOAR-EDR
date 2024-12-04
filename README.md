@@ -1,2 +1,6 @@
-# LimaCharlie-SOAR-EDR
-![Flowchart](https://github.com/user-attachments/assets/b182f0fa-f6af-4fe9-967c-7cbe8b8e8909)
+<div align="center">
+  <h2>SOAR EDR Integration & Automation</h2>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/99015181-7014-4409-8cc4-2ff765068727" alt="Description" width="500">
+</div>
