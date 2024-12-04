@@ -92,5 +92,24 @@ Overview of event on email.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f6b8e605-8259-4009-9d0b-d6b2005ed791">
 </div>
-If the security team chooses to see the event in-depth, they can do by clicking the link in the bottom of the message for every specific event. If security team wishes to isolate the sensor(machine), they can simply press yes and isolate sensor application from tines will command lima-charlie to isolate the machine.
-<div align="center"></div>
+If the security team chooses to see the event in-depth, they can do so, by clicking the link in the bottom of the message for every specific event. If security team wishes to isolate the sensor(machine), they can simply choose yes and isolate sensor application from tines which will be reflected in lima-charlie.
+<div align="center">
+  <img src ="https://github.com/user-attachments/assets/eca0e0dc-2532-4f70-bd32-571940b25687">
+</div>
+Further, in windows server, if we try to connect to internet or any other network won't be possible. We can see that by a small demonstration in the below picture in which we tried to ping to google.com which isn't possible because the machine has been isolated.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c400007a-3730-46c5-838c-e8c5f99ee2ad">
+</div>
+Also, in lima charlie machine status has been changed to isolated.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/18de4fb7-8316-4232-b05c-3b20b16ae1b3">
+</div>
+We also have received a final message on slack regarding machine isolation.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bbbffbad-bcf7-45b4-9a64-78db61bcc4e8">
+</div>
+If user had selected no in when asked for the action on the machine none of these would happen and will receieve a message on slack instead.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a1b7d484-d6a8-465c-877f-e2d673a0edaa">
+</div>
+
